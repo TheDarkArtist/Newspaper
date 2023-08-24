@@ -1,0 +1,2 @@
+# Newspaper
+A Django Project
